@@ -12,17 +12,13 @@ knitr::opts_chunk$set(
   out.width = "100%"
 )
 ```
-# rrdemoVersion1
-
-<!-- badges: start -->
-<!-- badges: end -->
 
 # A reproducible research compendium example
 
 This repository provides an example of a *reproducible research compendium*. The
-analysis that it does is essentially a toy example, but it works and how it 
-is produces is general enough (albeit with perhaps some small modifications and additions) 
-to be useful for most small to medium sized data analysis projects.
+analysis that it does is essentially a toy example, but how it works is general
+enough (albeit with perhaps some small modifications and additions) to be useful
+for most small to medium sized data analysis projects.
 
 One of the first papers to articulate the general concept of a reproducible
 research compendium, especially one that uses R based tools, was [Statistical
